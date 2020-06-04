@@ -1,0 +1,17 @@
+---
+ID: 78670
+post_title: >
+  Asteroid as large as Empire State
+  Building to zoom past Earth, NASA says
+author: 'IGV- News Desk Team'
+post_excerpt: "NASA is monitoring an asteroid that may be as large as the Empire State Building, expected to pass Earth on Saturday, June 6. Asteroid 2002 NN4 is estimated to be 250-570 meters (820-1,870 feet) in diameter, according to NASA's Jet Propulsion Laboratory (JPL). New York City's iconic Empire State Building is more than 1,400 feet&hellip;"
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/asteroid-as-large-as-empire-state-building-to-zoom-past-earth-nasa-says/78670/india-gone-viral/
+published: true
+post_date: 2020-06-04 21:42:51
+---
+<section data-page="1" data-page-hidden="0" data-use-autolinker="true"><p>NASA is monitoring an asteroid that may be as large as the Empire State Building, expected to pass Earth on Saturday, June 6.</p>
+<p><a href="https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=163348" rel="nofollow noopener noreferrer" target="_blank">Asteroid 2002 NN4</a> is estimated to be 250-570 meters (820-1,870 feet) in diameter, according to NASA's Jet Propulsion Laboratory (JPL). New York City's iconic Empire State Building is more than 1,400 feet tall at its tip.</p><p>The asteroid may seem daunting, but it will pass Earth at a safe distance, a representative for JPL told CBS News.</p>
+<p>Information about the asteroid is listed on NASA's <a href="https://cneos.jpl.nasa.gov/ca/" rel="nofollow noopener noreferrer" target="_blank">Center for Earth Object Studies</a> (CNEOS) website, which monitors close approaches to Earth. Several other objects are expected to fly through space near Earth this week, according to the data.</p><p>NASA has built a <a href="https://www.nasa.gov/mission_pages/asteroids/widget/index.html" rel="nofollow noopener noreferrer" target="_blank">widget</a> so star gazers can keep track of asteroids that may appear in the night sky. The widget keeps track of any Earth approaches within 4.6 million miles of the planet. The tool also uses common Earth objects to compare asteroids' sizes. Some asteroids are as big as houses, others planes, and some are as large as stadiums, the widget shows.</p><p>While it is unlikely for an asteroid to hit Earth anytime soon, scientists have prepared just in case. Scientists from around the world gathered at a 2019 conference and <span><a data-invalid-url-rewritten-http="" href="https://www.cbsnews.com/news/how-nasa-would-keep-an-asteroid-from-hitting-the-earth-2019-04-30/" target="_blank" rel="noopener noreferrer">discussed how to respond</a></span> to an asteroid big enough to destroy a major city. </p><p>"All we have to do is change its speed a little faster or a little slower so that when it crosses Earth's orbit, it crosses either in front of us or behind us," said Dr. Lori Glaze, director of planetary science at NASA.</p>
+<p>There are 20,000 near-Earth asteroids and they do occasionally make an appearance. In 2013, one slammed into Russia, injuring 1,600 people.</p><p>"It doesn't really keep me up at night," Glaze said.</p></section><br/><a href="https://www.cbsnews.com/news/massive-astroid-earth-nasa/" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a>
