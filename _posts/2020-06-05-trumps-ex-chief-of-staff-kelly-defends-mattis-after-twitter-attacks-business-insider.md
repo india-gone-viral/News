@@ -1,0 +1,33 @@
+---
+ID: 78792
+post_title: 'Trump&#8217;s ex-chief of staff Kelly defends Mattis after Twitter attacks &#8211; Business Insider'
+author: karrydieter692
+post_excerpt: "President Donald Trump's former White House chief of staff John Kelly, a retired Marine Corps general, defended former Secretary of Defense Jim Mattis Thursday after Trump blasted Mattis on Twitter Wednesday night.Trump claimed that he fired Mattis and asked for his resignation, two points that Kelly rejected in an interview with The Washington Post, during&hellip;"
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/05/trumps-ex-chief-of-staff-kelly-defends-mattis-after-twitter-attacks-business-insider/78792/karrydieter692/
+published: true
+post_date: 2020-06-05 04:20:29
+---
+<section data-post-type="post" data-track-content=""><div data-piano-inline-content-wrapper="" id="piano-inline-content-wrapper">
+
+                      <ul><li>President Donald Trump's former White House chief of staff John Kelly, a retired Marine Corps general, defended former Secretary of Defense Jim Mattis Thursday after Trump blasted Mattis on Twitter Wednesday night.</li><li>Trump claimed that he fired Mattis and asked for his resignation, two points that Kelly rejected in an interview with The Washington Post, during which he suggested the president might be "confused" and called Mattis an "honorable man."</li><li>The president's tweets criticizing Mattis followed a scathing statement by Mattis earlier Wednesday accusing Trump of dividing the nation in a time of unrest.</li><li><a data-analytics-module="summary_bullets" href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li></ul>
+
+
+<p>President Donald Trump's former White House chief of staff John Kelly defended former Secretary of Defense Jim Mattis on Thursday, calling him an "honorable man" and rejecting the president's claim that he fired the retired Marine Corps general.</p><p>"The president did not fire him. He did not ask for his resignation," Kelly, also a retired Marine Corps general, <a data-analytics-module="body_link" href="https://www.washingtonpost.com/nation/2020/06/04/george-floyd-protests-live-updates/#link-SAYWJYMQCJCVNCBQKIP2GGHVIA">told The Washington Post</a> Thursday.</p><p>"The president has clearly forgotten how it actually happened or is confused," he added. "The president tweeted a very positive tweet about Jim until he started to see on Fox News their interpretation of his letter. Then he got nasty."</p><p>"Jim Mattis is a honorable man," Kelly said.</p>
+
+
+
+<p>Mattis, who <a data-analytics-module="body_link" href="https://www.businessinsider.com/mattis-resigns-as-secretary-of-defense-2018-12">resigned from his position in December 2018</a>, <a data-analytics-module="body_link" href="https://www.businessinsider.com/mattis-unloads-on-trump-for-dividing-america-in-blistering-statement-2020-6">issued a stinging statement Wednesday criticizing Trump's handling of the nationwide unrest in the US</a>.</p><p>"Donald Trump is the first president in my lifetime who does not try to unite the American people — does not even pretend to try. Instead, he tries to divide us," Mattis wrote in a sharply worded statement published by The Atlantic.</p><p>"We must reject and hold accountable those in office who would make a mockery of our Constitution," Mattis wrote, saying that Americans must unite despite the president's divisive actions.</p><p>The former secretary of defense is <a data-analytics-module="body_link" href="https://www.businessinsider.com/former-military-leaders-slam-trumps-handling-of-protests-2020-6">one of several former military leaders to call out the Trump administration</a> in a highly unusual rebuke to a sitting president.</p>
+
+
+
+<p>In response to Mattis' statement, <a data-analytics-module="body_link" href="https://www.businessinsider.com/trump-blasts-mattis-after-scathing-criticisms-of-the-president-2020-6">Trump lashed out on Twitter, calling Mattis "the world's most overrated general."</a></p><p>The president said that "probably the only thing Barack Obama & I have in common is that we both had the honor of firing Jim Mattis, the world's most overrated General." He claimed that he asked Mattis for his letter of resignation and "felt great about it."</p><blockquote data-cards="" data-conversation="" data-lang="en">—Donald J. Trump  (@realDonaldTrump) <a href="https://twitter.com/mims/statuses/1268347259713880064?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote><p>In addition to the claims that Kelly, who left the administration around the same time as Mattis, disputed Thursday, it should be noted that <a data-analytics-module="body_link" href="https://www.militarytimes.com/news/pentagon-congress/2019/03/03/trump-claims-he-coined-the-nickname-mad-dog-mattis/">the nickname "Mad Dog" was not coined by Trump</a> but had been in use long before the president ever took office.</p><p>When Mattis resigned, apparently in response to disagreements over the president's plan to abandon US partners who fought the ground war against ISIS in Syria, <a data-analytics-module="body_link" href="https://www.businessinsider.com/mattis-resigns-as-secretary-of-defense-2018-12">Trump spoke positively about the then-secretary of defense</a>, praising Mattis for his "tremendous" achievements during his tenure as Pentagon chief.</p>
+
+
+
+<p>Mattis' <a data-analytics-module="body_link" href="https://www.businessinsider.com/defense-secretary-mattis-full-resignation-letter-to-trump-2018-12">resignation letter</a>, which was shared widely, said the president should find a secretary of defense "whose views are better aligned with yours" on issues like respecting US allies, confronting US adversaries, and protecting the international order.</p><p>The resignation letter was perceived by many as a scathing rebuke of Trump's "America First" policies, which have alienated the country's closest allies. While Mattis had intended to officially step down a little later, Trump pushed him out early, swiftly replacing him with Patrick Shanahan in an acting capacity.</p><p>Though Mattis resigned, Trump claimed in January 2019 that he "essentially" fired Mattis.</p>
+                  </div>
+
+
+                </section><br/><a href="http://www.businessinsider.com/john-kelly-defends-mattis-after-trump-twitter-attacks-2020-6" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a></br>Business Insider
