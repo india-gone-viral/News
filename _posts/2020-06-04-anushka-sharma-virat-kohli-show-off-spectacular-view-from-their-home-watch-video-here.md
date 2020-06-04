@@ -1,0 +1,19 @@
+---
+ID: 78745
+post_title: >
+  Anushka Sharma, Virat Kohli show off
+  spectacular view from their home, watch
+  video here
+author: 'IGV- News Desk Team'
+post_excerpt: 'Home / Bollywood / Anushka Sharma, Virat Kohli show off spectacular view from their home, watch video here Anushka Sharma has shared a short video of gathering storm clouds, taken from her home in Mumbai. The city survived the landfall of Cyclone Nisarga on Wednesday, and welcomed the first rains of the monsoon season. Anushka&hellip;'
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/anushka-sharma-virat-kohli-show-off-spectacular-view-from-their-home-watch-video-here/78745/india-gone-viral/
+published: true
+post_date: 2020-06-04 23:43:26
+---
+<p><a href="https://www.hindustantimes.com/" title="Home">Home </a> / <a href="http://www.hindustantimes.com/bollywood/" title="Bollywood">Bollywood</a> / <span>Anushka Sharma, Virat Kohli show off spectacular view from their home, watch video here</span>
+			</p><div>
+						
+						<p><a href="https://www.hindustantimes.com/bollywood/anushka-sharma-virat-kohli-spotted-playing-cricket-at-home-amid-lockdown-fans-can-t-believe-how-huge-their-house-is/story-Ic0NdvjxtDI3HqrEvNxvlN.html" title="Anushka Sharma">Anushka Sharma</a> has shared a short video of gathering storm clouds, taken from her home in Mumbai. The city survived the landfall of Cyclone Nisarga on Wednesday, and welcomed the first rains of the monsoon season. </p><p>Anushka shared the video without a caption or comment. Anushka has been quarantining with her husband, cricketer Virat Kohli, during the coronavirus lockdown.  <img src="https://i.imgur.com/8TaC3dh.jpg" width="100%/"></img></p><p>Recently, videos of them playing a game of cricket on the terrace of their home was also shared online.  While many fans loved catching a glimpse of the celebrity couple, others could not stop marvelling at their expansive home. “Omg kya yeh full space virat ka ghr hai (Is this full space Virat’s home),” wrote one. “Kitna chota Ghar hain (such a small house),” wrote another sarcastically.</p><p>In a recent interview, Virat spoke about how lockdown has been for them. “Since we have known each other, this is honestly the longest we have spent together. Usually, I am on tour or Anushka has been working, I go see her or she’s working in Mumbai and I happened to be home during those days. There’s some thing or the other happening! There’s one person going to work or doing something that has to be done, but this is the time when both of us have just been together every day and it’s been so amazing,” he said.</p><p><b>Also read: <a href="https://www.hindustantimes.com/bollywood/anushka-sharma-virat-kohli-spotted-playing-cricket-at-home-amid-lockdown-fans-can-t-believe-how-huge-their-house-is/story-Ic0NdvjxtDI3HqrEvNxvlN.html" title="Anushka Sharma-Virat Kohli spotted playing cricket at home amid lockdown, fans can’t believe how huge their house is">Anushka Sharma-Virat Kohli spotted playing cricket at home amid lockdown, fans can’t believe how huge their house is</a></b></p><p>During the lockdown, the couple has been active on social media, either on Instagram where Anushka gave her husband a haircut, or entertaining fans on TikTok. The couple also appeared in public service announcements in the initial days of the lockdown, educating their fans about the dangers of venturing outdoors during the pandemic.</p><p><b>Follow <a href="https://twitter.com/htshowbiz" rel="nofollow" title="@htshowbiz">@htshowbiz</a> for more</b></p>
+					</div><br/><a href="https://www.hindustantimes.com/bollywood/anushka-sharma-virat-kohli-show-off-spectacular-view-from-their-home-watch-video-here/story-KS2ytXAo8EW2FDIVWmsdEN.html" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a>
