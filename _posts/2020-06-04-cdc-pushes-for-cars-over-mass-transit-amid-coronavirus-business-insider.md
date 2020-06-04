@@ -1,0 +1,28 @@
+---
+ID: 78646
+post_title: 'CDC pushes for cars over mass transit amid coronavirus &#8211; Business Insider'
+author: lilianjameson3
+post_excerpt: "The Centers for Disease Control and Prevention is advising Americans to drive to work instead of taking public transit or carpooling.This is to prevent the spread of the coronavirus.It counters what scads of public health and environmental programs have advocated for decades. Visit Business Insider's homepage for more stories. The federal government would like companies to&hellip;"
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/cdc-pushes-for-cars-over-mass-transit-amid-coronavirus-business-insider/78646/lilianjameson3/
+published: true
+post_date: 2020-06-04 21:40:13
+---
+<div data-piano-inline-content-wrapper="" id="piano-inline-content-wrapper">
+
+                      <ul><li>The Centers for Disease Control and Prevention is advising Americans to drive to work instead of taking public transit or carpooling.</li><li>This is to prevent the spread of the coronavirus.</li><li>It counters what scads of public health and environmental programs have advocated for decades. </li><li><a data-analytics-module="summary_bullets" href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li></ul>
+
+
+<p>The federal government would like companies to incentivize driving to work — preferably alone. (Employees may also walk or bike to work, if they live close enough.)</p><p>That's part of the Centers for Disease Control and Prevention's guidelines <a data-analytics-module="body_link" href="https://www.cnbc.com/2020/06/04/cdc-guidance-against-mass-transit-sparks-fears-of-congestion-emissions.html">released this week</a> on how to adapt to the return of working outside of the home, a practice largely nixed since the beginning of the coronavirus pandemic in mid-March.</p><p>Getting to work without close contact with others, such as through public transit or ride sharing, is preferred, the CDC says. This would help slow the spread of the coronavirus, which has already killed more than 100,000 Americans in 2020. </p><p>However, commuting via carpooling and mass transit is what public health and environmental officials have pushed for decades in order to ease congestion and mitigate the effects of catastrophic climate change.</p>
+
+
+
+<p>Without intervention, in the next decade, <a data-analytics-module="body_link" href="https://www.businessinsider.com/climate-change-in-the-next-decade-2019-11">experts believe we will see</a> irreversible ice-melt flooding cities worldwide, record-breaking temperatures, more destructive hurricanes and storms, and water shortages.</p><p>One major contributor to climate change is personal transportation, particularly in a <a data-analytics-module="body_link" href="https://cotap.org/per-capita-carbon-co2-emissions-by-country/">high-income, high-emissions-producing country like the United States</a>.</p><p>The US has the No. 4 highest car ownership per capita <a data-analytics-module="body_link" href="https://www.weforum.org/agenda/2015/10/these-are-the-countries-with-the-most-vehicles-per-person/">in the world</a>. Some 76% of Americans get to work <a data-analytics-module="body_link" href="https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/">by driving alone</a>. </p><p>But for the other 24%, encouraging them to take a car (or a bike, or walk, if they're close enough) to work could be environmentally hazardous — unless the CDC pares back these guidelines in the coming weeks. </p>
+
+
+
+<p>"Our roads cannot handle the increase in demand that will come from increased vehicle dependence. Congestion levels will likely become unbearable," University of British Columbia urban planning and public health professor Lawrence Frank <a data-analytics-module="body_link" href="https://www.cnbc.com/2020/06/04/cdc-guidance-against-mass-transit-sparks-fears-of-congestion-emissions.html">told CNBC</a>. </p><p>In New York, where around 30% of residents take mass transit to work, a shift from public transit to cars is already underway. Nearly half of New Yorkers said in a survey that they would not take public transit when the city reopens, according to data researcher Elucd and workplace operator Industrious.</p><p>"Encouraging people, especially those without cars and in congested areas like New York, not to take public transit is misguided," Patrick J. Foye, chairman of New York's Metropolitan Transportation Authority, <a data-analytics-module="body_link" href="https://www.nytimes.com/2020/06/01/nyregion/coronavirus-commute-nyc-subway-cars.html">told The New York Times this month</a>. </p><section><p><svg aria-labelledby="title desc" height="50" role="img" space="preserve" style="enable-background:new 0 0 50 50;" version="1.1" viewbox="0 0 50 50" width="50" xmlns="http://www.w3.org/2000/svg"><title id="title">Loading</title><desc id="desc">Something is loading.</desc><path d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z" fill="#111"><animatetransform attributename="transform" attributetype="xml" dur="0.6s" from="0 25 25" repeatcount="indefinite" to="360 25 25" type="rotate"></animatetransform></path></svg></p>
+
+  
+</section></div><br/><a href="http://www.businessinsider.com/cdc-cars-over-mass-transit-amid-coronavirus-2020-6" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a></br>Business Insider
