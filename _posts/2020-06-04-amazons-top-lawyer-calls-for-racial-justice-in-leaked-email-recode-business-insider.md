@@ -1,0 +1,27 @@
+---
+ID: 78714
+post_title: 'Amazon&#8217;s top lawyer calls for racial justice in leaked email: Recode &#8211; Business Insider'
+author: tangela7449996
+post_excerpt: |
+  Top Amazon lawyer David Zapolsky sent a memo to his staff on Wednesday saying "the images and accounts of violence, discrimination, and racist aggression against Black people are reprehensible and harrowing," Recode reports.Some employees were upset that the email did not address Zapolsky's previously leaked statements regarding Chris Smalls, a Black warehouse worker who was&hellip;
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/amazons-top-lawyer-calls-for-racial-justice-in-leaked-email-recode-business-insider/78714/tangela7449996/
+published: true
+post_date: 2020-06-04 22:40:22
+---
+<div data-piano-inline-content-wrapper="" id="piano-inline-content-wrapper">
+
+                      <ul><li>Top Amazon lawyer David Zapolsky sent a memo to his staff on Wednesday saying "the images and accounts of violence, discrimination, and racist aggression against Black people are reprehensible and harrowing," Recode <a data-analytics-module="summary_bullets" href="https://www.vox.com/recode/2020/6/3/21279473/amazon-david-zapolsky-email-black-lives-matter-christian-smalls-covid-19">reports</a>.</li><li>Some employees were upset that the email did not address Zapolsky's previously leaked statements regarding Chris Smalls, a Black warehouse worker who was fired in March, according to Recode.</li><li>On whether Zapolsky's remarks on Smalls were related to race, an Amazon spokesperson said: "That's not true. In fact, Mr. Zapolsky didn't even know the race of the person at the time he made his comments."</li><li><a data-analytics-module="summary_bullets" href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li></ul>
+
+
+<p>Top Amazon lawyer David Zapolsky sent a memo to his staff on Wednesday addressing the Black Lives Matter movement, and it reportedly upset some employees.</p><p>"The images and accounts of violence, discrimination, and racist aggression against Black people are reprehensible and harrowing," said the memo, which was reported by Jason Del Ray at <a data-analytics-module="body_link" href="https://www.vox.com/recode/2020/6/3/21279473/amazon-david-zapolsky-email-black-lives-matter-christian-smalls-covid-19">Recode</a>. "Tragically, they are also not new."</p><p>Recode reports that some Amazon employees were upset that Zapolsky's memo did not address his <a data-analytics-module="body_link" href="https://www.businessinsider.com/leaked-memo-reveals-amazon-reportedly-led-pr-campaign-against-worker-2020-4">leaked statements</a> from April, in which he referred to fired Amazon warehouse employee Chris Smalls as "not smart, or articulate."</p><p>Smalls, who is Black, said he was <a data-analytics-module="body_link" href="https://www.businessinsider.com/amazon-fires-warehouse-worker-led-strike-protest-covid19-cornavirus-response-2020-3">fired</a> in March for leading a protest calling for better safety standards amid the pandemic. Amazon has said it fired Smalls for violating social distancing guidelines. </p>
+
+
+
+<p>Zapolsky later apologized for the statements about Smalls, which Rep. Alexandria Ocasio-Cortez referred to as racist. </p><p>"Amazon's attempt to smear Chris Smalls, one of their own warehouse workers, as 'not smart or articulate' is a racist & classist PR campaign," Ocasio-Cortez <a data-analytics-module="body_link" href="https://twitter.com/AOC/status/1245874177007116291?s=20">tweeted</a> in April. </p><p>In his apology, Zapolsky said, "My comments were personal and emotional. I was frustrated and upset that an Amazon employee would endanger the health and safety of other Amazonians by repeatedly returning to the premises after having been warned to quarantine himself after exposure to virus Covid-19. I let my emotions draft my words and get the better of me."</p><p>On whether his remarks on Smalls were related to race, an Amazon spokesperson said: "That's not true. In fact, Mr. Zapolsky didn't even know the race of the person at the time he made his comments."</p>
+
+
+
+<p>Amazon declined to comment on Zapolsky's recent "Black Lives Matter" email.</p><p>In the email, Zapolsky said he personally donated money to 11 organizations including the NAACP and ACLU Foundation that "seek to achieve change by asserting and enforcing rights through the legal system — a longstanding and powerful tradition of the civil rights movement in this country," according to Recode.</p><p>He also encouraged employees to call him on his personal cell phone "If there is anything that I, personally, or any member of our legal leadership team can do to help in any way — even if you just want to talk, ask any question, share ideas or feedback, or just vent."</p><p><em>If you work for Amazon and have a story to tell, contact this reporter at hpeterson@businessinsider.com or on Signal at 646-768-4757.</em></p>
+                  </div><br/><a href="http://www.businessinsider.com/amazon-lawyer-calls-for-racial-justice-in-leaked-email-recode-2020-6" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a></br>Business Insider
