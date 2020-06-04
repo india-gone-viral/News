@@ -1,0 +1,18 @@
+---
+ID: 78800
+post_title: >
+  Indian diplomats harassed in Islamabad,
+  New Delhi complains to Pakistan govt
+author: 'IGV- News Desk Team'
+post_excerpt: 'Home / India News / Indian diplomats harassed in Islamabad, New Delhi complains to Pakistan govt India has taken up with Pakistan the issue of harassment of Indian personnel in Islamabad and obstruction in the discharge of their duties days after New Delhi expelled two staffers of the Pakistani mission, people familiar with developments said&hellip;'
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/05/indian-diplomats-harassed-in-islamabad-new-delhi-complains-to-pakistan-govt/78800/india-gone-viral/
+published: true
+post_date: 2020-06-05 04:23:09
+---
+<b>This news was originally published on</b> <a href="https://www.hindustantimes.com/india-news/indian-diplomats-harassed-in-islamabad-new-delhi-complains-to-pakistan-govt/story-5wqwhoTAogK5mMDf9dBW8I.html" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a> <br/><br/><p><a href="https://www.hindustantimes.com/" title="Home">Home </a> / <a href="http://www.hindustantimes.com/india-news/" title="India News">India News</a> / <span>Indian diplomats harassed in Islamabad, New Delhi complains to Pakistan govt</span>
+			</p><div>
+						
+						<p>India has taken up with Pakistan the issue of harassment of Indian personnel in Islamabad and obstruction in the discharge of their duties days after New <a href="https://www.hindustantimes.com/india-news/2-pakistan-high-commission-officials-arrested-for-indulging-in-espionage/story-9Nt0CWd03jhyL7SeOn78ZN.html" title="Delhi expelled two staffers">Delhi expelled two staffers</a> of the Pakistani mission, people familiar with developments said on Thursday.</p><p>There were reports from Islamabad of Pakistani security and intelligence personnel aggressively tailing the vehicles of Indian diplomats, including chargé d’affaires Gaurav Ahluwalia, and behaving in an intimidating manner outside their residences in Islamabad, the people cited above said on condition of anonymity.</p><p>“The matter of harassment of Indian personnel and obstruction in their normal functioning is being taken up through established diplomatic channels,” said a person.</p><p>Several videos shared on social media purportedly showed Pakistani intelligence personnel on motorcycles tailing the Indian diplomats, including Ahluwalia.</p><p>On May 31, India had expelled two officials of the Pakistan high commission after they were detained by law enforcement authorities on charges of engaging in espionage.</p><p>Delhi Police officials said the staffers of the Pakistani mission were detained at Bikanervala Chowk in Karol Bagh while allegedly trying to obtain classified materials on Indian security installations, and a case was registered against them under the Official Secrets Act. The detentions were the result of an operation jointly mounted by Delhi Police and Military Intelligence.</p><p>Pakistan condemned India’s decision to declare the two officials persona non grata and expel them, saying they were detained on “false and unsubstantiated charges”. A statement from Pakistan’s Foreign Office contended the two men were tortured and threatened to “accept false charges” despite identifying themselves as diplomatic staff.</p><p>India rejected these contentions, and people familiar with developments said the Pakistan officials were caught red handed while indulging in espionage.</p><p>There have been several instances of the harassment of Indian diplomats in Islamabad in recent years after bilateral ties plunged to an all-time low.</p>
+					</div>
