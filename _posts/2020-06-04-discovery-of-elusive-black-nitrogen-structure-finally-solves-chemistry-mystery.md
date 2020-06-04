@@ -1,0 +1,31 @@
+---
+ID: 78673
+post_title: 'Discovery of Elusive &#8216;Black&#8217; Nitrogen Structure Finally Solves Chemistry Mystery'
+author: 'IGV- News Desk Team'
+post_excerpt: 'A diamond anvil. (Christian Wißler/University of Bayreuth) MICHELLE STARR 4 JUNE 2020 When it comes to putting the lighter elements of the periodic table under high pressure, nitrogen seems to be the odd one out. While oxygen, boron, and carbon all change structure according to a specific pattern, nitrogen does not, a glaring anomaly scientists&hellip;'
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/discovery-of-elusive-black-nitrogen-structure-finally-solves-chemistry-mystery/78673/india-gone-viral/
+published: true
+post_date: 2020-06-04 21:42:48
+---
+<div><p>
+A diamond anvil. (Christian Wißler/University of Bayreuth) </p></div><div>
+<div>
+
+
+<div>
+
+<div>
+<p><span>MICHELLE STARR </span></p>
+<p><span>
+4 JUNE 2020 </span></p></div>
+</div>
+</div>
+</div><div id="item_44332">
+<div>
+<div>
+<p>When it comes to putting the lighter elements of the periodic table under high pressure, nitrogen seems to be the odd one out. While oxygen, boron, and carbon all change structure according to a specific pattern, nitrogen does not, a glaring anomaly scientists have struggled to resolve.</p>
+<p>A new finding reveals nitrogen may not be such a weirdo after all - it just needs the right extreme-pressure conditions, and then it falls into line, behaving just like the others.</p><p><a href="http://www.sciencealert.com/think-periodic-tables-all-look-the-same-think-again">The periodic table</a> is arranged in ascending order, based on the number of protons in the atomic nucleus of each element, from left to right across 18 numbered columns, also known as families. These families are not random - they're made up of elements that have similar properties, recurring across intervals.</p><p>Elements at the top of such a family column have the lowest number of protons and the lowest mass. And that's where it gets interesting.</p><p>In some families, when alternative physical forms - allotropes - of the top element are created under pressure, they display similar structural properties to heavier elements lower down in the group, but under normal conditions, no excessive pressure needed.</p><p>Allotropes are fascinating; they are different forms of elements that can exist in the same state. For instance, graphite, <a href="https://www.sciencealert.com/graphene" target="_blank" title="graphene" rel="noopener noreferrer">graphene</a> and diamond are allotropes of carbon, all existing in the solid state. Dioxygen and <a href="https://www.sciencealert.com/ozone" target="_blank" title="ozone" rel="noopener noreferrer">ozone</a> are allotropes of oxygen - all of which are gaseous. Boron has several allotropes, too.</p><p>According to the researchers, all of the aforementioned allotropes follow the family pattern nicely.</p><p>Then there's nitrogen. Its family contains nitrogen, phosphorus, arsenic, antimony, bismuth and moscovium. In previous high-pressure experiments, nitrogen exhibited no structures similar to any of those elements.</p><p>But maybe we just didn't find them? Researchers at the University of Bayreuth in Germany have developed a new method for measuring nitrogen under high pressure.</p><p>First, they squeezed nitrogen gas in a diamond anvil, to nearly 1.4 million times the atmospheric pressure at sea level, while using a laser to heat it to temperatures of around 3,726 degrees Celsius (6,740 degrees Fahrenheit). This process was performed in stages.</p><p>Then, they used synchrotron single-crystal X-ray diffraction - X-rays fired through a particle accelerator - to study and identify the material where it was, and performed complementary Raman spectroscopy measurements and density functional theory calculations to confirm that identification.</p><p>The crystalline structure of the compressed and heated nitrogen was something new - but also familiar. The material the researchers found wasn't structurally similar to nitrogen family elements, but nitrogen family allotropes. In particular, an allotrope of phosphorus called black phosphorus, but also allotropes of arsenic and antimony called black arsenic and black antimony.</p><p>"We were surprised and intrigued by the measurement data suddenly providing us with a structure characteristic of black phosphorus," <a href="https://www.uni-bayreuth.de/en/university/press/press-releases/2020/087-black-nitrogen/index.html">said physicist and chemist Dominique Laniel</a> of the University of Bayreuth.</p><p>"Further experiments and calculations have since confirmed this finding. This means there is no doubt about it: nitrogen is, in fact, not an exceptional element, but follows the same golden rule of the periodic table as carbon and oxygen do."</p><p>The researchers have therefore proposed the name "black nitrogen", and believe it has some interesting potential applications. It's composed of two-dimensional layers, with the atoms laid out in a cross-linked zig-zag pattern.</p><p>Like graphene, black nitrogen appears to be highly conductive - which means it could be useful for semiconductors, transistors, and other high-tech applications.</p><p>At the moment, though, it is too unstable. It can only exist in those high-pressure, high-heat conditions. The moment those influences relax, black nitrogen dissolves.</p><p>"Because of this instability, industrial applications are currently not feasible," <a href="https://www.uni-bayreuth.de/en/university/press/press-releases/2020/087-black-nitrogen/index.html">Laniel said</a>.</p><p>"Nevertheless, nitrogen remains a highly interesting element in materials research. Our study shows by way of example that high pressures and temperatures can produce material structures and properties that researchers previously did not know existed."</p><p>The research has been published in <em><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.216001">Physical Review Letters</a></em>.</p> </div>
+</div>
+</div><br/><a href="https://www.sciencealert.com/a-new-kind-of-black-nitrogen-finally-resolves-a-periodic-table-mystery" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a>
