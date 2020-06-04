@@ -1,0 +1,19 @@
+---
+ID: 78722
+post_title: >
+  India’s single-day Covid-19 spike
+  crosses another grim milestone, 260
+  fatalities in 24 hours
+author: 'IGV- News Desk Team'
+post_excerpt: 'Home / India News / India’s single-day Covid-19 spike crosses another grim milestone, 260 fatalities in 24 hours India on Thursday recorded 9,304 new cases of coronavirus disease Covid-19 in the last 24 hours (between Wednesday and Thursday), taking the overall tally to 2,16,919.According to the update posted on the Union heath ministry website, the&hellip;'
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/indias-single-day-covid-19-spike-crosses-another-grim-milestone-260-fatalities-in-24-hours/78722/india-gone-viral/
+published: true
+post_date: 2020-06-04 22:41:16
+---
+<b>This news was originally published on</b> <a href="https://www.hindustantimes.com/india-news/india-s-single-day-covid-19-spike-crosses-another-grim-milestone-260-fatalities-in-24-hours/story-ovF0g55pAjbKb6u4jrvTcM.html" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a> <br/><br/><p><a href="https://www.hindustantimes.com/" title="Home">Home </a> / <a href="http://www.hindustantimes.com/india-news/" title="India News">India News</a> / <span>India’s single-day Covid-19 spike crosses another grim milestone, 260 fatalities in 24 hours</span>
+			</p><div>
+						
+						<p>India on Thursday recorded 9,304 new cases of coronavirus disease Covid-19 in the last 24 hours (between Wednesday and Thursday), taking the overall tally to 2,16,919.</p><p>According to the update posted on the Union heath ministry website, the number of active cases in country are 1,06,737, and 1,04,106 have been cured or discharged.</p><p>The death toll due to Covid-19 stands at 6,075. The country saw 260 deaths in the last 24 hours.</p><p><b>Also read: <a href="https://www.hindustantimes.com/india-news/delhi-s-covid-19-containment-zones-double-up-in-15-days-as-tally-surges-beyond-22-000/story-UsqLj9YaYpLG32jVJHQr5H.html" title="Delhi’s Covid-19 containment zones double up in 15 days as tally surges beyond 22,000">Delhi’s Covid-19 containment zones double up in 15 days as tally surges beyond 22,000</a></b></p><p>Badly-hit states and union territories such as Maharashtra, Tamil Nadu, Gujarat and Delhi continued to contribute to the rising tally, while new cases continued to surface in several eastern and north-eastern states including Bihar, West Bengal, Odisha, Assam, Nagaland, Mizoram and Sikkim.</p><p>Uttarakhand, Himachal Pradesh, Andhra Pradesh and Kerala also figured among the states where more people tested positive for Covid-19.</p><p>India is the seventh worst-hit nation by the Covid-19 pandemic after the US, Brazil, Russia, the UK, Spain and Italy. India’s tally had crossed the two-lakh mark on Tuesday night with nearly 1 lakh new cases having emerged in a span of 15 days. The first Covid-19 case in India was detected on January 30.</p><p>The health ministry said on Wednesday that the number of Covid-19 tests across the country has crossed the 40 lakh-mark, while the daily testing capacity has been ramped up to 1.4 lakh through 480 government and 208 private laboratories.</p><p><b><a href="https://liveupdates.hindustantimes.com/india/coronavirus-india-world-latest-news-covid-19-death-toll-june-04-2020-21591236501072.html" title="Follow live updates on the Coronavirus outbreak here">Follow live updates on the Coronavirus outbreak here</a></b></p><p>National capital Delhi on Wednesday recorded over 1,500 new cases of the coronavirus disease, its highest single-day spike. With 1,513 new cases in the last 24 hours (between Tuesday and Wednesdy), the total number of cases in Delhi is 23,645.</p><p>A five-member committee has been constituted by the Delhi government to strengthen the healthcare infrastructure and look into overall preparedness of hospitals to battle Covid-19.</p>
+					</div>
