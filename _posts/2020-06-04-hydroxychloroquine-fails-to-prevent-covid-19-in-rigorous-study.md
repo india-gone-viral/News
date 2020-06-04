@@ -1,0 +1,39 @@
+---
+ID: 78679
+post_title: >
+  Hydroxychloroquine fails to prevent
+  COVID-19 in rigorous study
+author: 'IGV- News Desk Team'
+post_excerpt: 'A malaria drug President Donald Trump took to try to prevent COVID-19 proved ineffective for that in the first large, high-quality study to test it in people in close contact with someone with the disease. Results published Wednesday by the New England Journal of Medicine show that hydroxychloroquine was no better than placebo pills at&hellip;'
+layout: post
+permalink: >
+  https://indiagoneviral.com/news/2020/06/04/hydroxychloroquine-fails-to-prevent-covid-19-in-rigorous-study/78679/india-gone-viral/
+published: true
+post_date: 2020-06-04 21:43:41
+---
+<section data-page="1" data-page-hidden="0" data-use-autolinker="true"><p>A malaria drug <span><a data-invalid-url-rewritten-http="" href="https://www.cbsnews.com/news/hydroxychloroquine-donald-trump-taking-drug-covid-19-prevention/" target="_blank" rel="noopener noreferrer">President Donald Trump took</a></span> to try to prevent <a data-invalid-url-rewritten-http="" data-vanity-rewritten="true" href="https://www.cbsnews.com/feature/coronavirus/" target="_blank" rel="noopener noreferrer">COVID-19</a> proved ineffective for that in the first large, high-quality study to test it in people in close contact with someone with the disease.</p>
+<p>Results published Wednesday by the New England Journal of Medicine show that <span><a data-invalid-url-rewritten-http="" href="https://www.cbsnews.com/news/coronavirus-hydroxychloroquine-study-more-deaths-no-benefit-drug-touted-trump/" target="_blank" rel="noopener noreferrer">hydroxychloroquine</a></span> was no better than placebo pills at preventing illness from the coronavirus. The drug did not seem to cause serious harm, though — about 40% on it had side effects, mostly mild stomach problems.</p><p>"We were disappointed. We would have liked for this to work," said the study leader, Dr. David Boulware, an infectious disease specialist at the University of Minnesota. "But our objective was to answer the question and to conduct a high-quality study," because the evidence on the drug so far has been inconclusive, he said.</p>
+<p>Hydroxychloroquine and a similar drug, chloroquine, have been the subject of much debate since Trump started promoting them in March. Hydroxychloroquine has long been used for malaria, lupus and rheumatoid arthritis, but no large studies have shown it or chloroquine to be safe or effective for much sicker patients with coronavirus, and some studies have suggested <span><a data-invalid-url-rewritten-http="" href="https://www.cbsnews.com/news/france-bans-use-of-hydroxychloroquine-drug-touted-by-trump-to-treat-coronavirus/" target="_blank" rel="noopener noreferrer">the drugs may do harm</a></span>.</p><p>Mr. Trump took a two-week course of hydroxychloroquine, along with zinc and Vitamin D, after two staffers tested positive for COVID-19, and had no ill effects, according to results of his latest physical released by his doctor Wednesday.</p><p><span><a data-invalid-url-rewritten-http="" href="https://www.cbsnews.com/news/coronavirus-fda-warning-hydroxychloroquine-treating-covid-19/" target="_blank" rel="noopener noreferrer">Federal regulators have warned</a></span> against hydroxychloroquine's use except in hospitals and formal studies because of the risk of side effects, especially heart rhythm problems.</p><figure><div>
+      
+
+        
+
+
+
+
+
+    
+
+
+
+    </div>
+
+          <figcaption><span>WHO pauses hydroxychloroquine from drug study, warns of possible "second peak" of coronavirus</span>
+
+                  
+        
+        
+              </figcaption></figure><p>Boulware's study involved 821 people in the United States and Canada living with someone diagnosed with COVID-19 or at high risk of getting it because of their job — doctors, nurses, ambulance workers who had significant exposure to a sick patient while not wearing full protective gear.</p>
+<p>They were randomly assigned to get either the nutrient folate as a placebo or hydroxychloroquine for five days, starting within four days of their exposure. Neither they nor others involved in the research knew who was getting which pills.</p><p>After 14 days in the study, 12% on the drug developed COVID-19 symptoms versus 14% in the placebo group, but the difference is so small it could have occurred by chance, Boulware said.</p><p>"There's basically no effect. It does not prevent infection," he said of the drug. Even if it were to give some slim advantage, "we'd want a much larger effect" to justify its use and risk of side effects for preventing illness, he said.</p><p>Results were no different among a subgroup of participants who were taking zinc or vitamin C, which some people believe might help make hydroxychloroquine more effective or fight the coronavirus.</p><p>There are some big caveats: The study enrolled people through the Internet and social media, relying on them to report their own symptoms rather than having them tracked in a formal way by doctors. Participants were not all tested for the coronavirus but were diagnosed as COVID-19 cases based on symptoms in many cases. And not all took their medicines as directed.</p><p>The results "are more provocative than definitive," and the drug may yet have prevention benefits if tried sooner or in a different way, Dr. Myron Cohen of the University of North Carolina at Chapel Hill wrote in a commentary in the journal.</p><p>Others were glad to see a study that had a comparison group and good scientific methods after so many weaker reports on hydroxychloroquine.</p>
+<p>"This fits with everything else we've seen so far which suggests that it's not beneficial," said Dr. Peter Bach, director of a health policy center at Memorial Sloan Kettering Cancer Center in New York.</p><p>This study was in younger relatively healthy people, but the results "would make me very discouraged about trying to use this in older people" who are most vulnerable to serious illness from the coronavirus, Bach said. "If it does work, it doesn't work very well."</p><p>Dr. Dan Culver, a lung specialist at the Cleveland Clinic, said there's still a chance that giving the drug sooner than four days after someone's exposure to the virus may help prevent illness.</p><p>But the study "takes 'home run' off the table" as far as hopes for the drug, he said.</p><p>The study was mostly funded by David Baszucki, founder of Roblox, a California-based game software company, and other private donors and the Minnesota university.</p><p>Boulware also is leading a study testing hydroxychloroquine for treating COVID-19. The study is finished and results are being analyzed now.</p><p>On Tuesday, the journal Lancet posted an "expression of concern" about a study it published earlier this month of nearly 15,000 COVID-19 patients on the malaria drugs that tied their use to a higher risk of dying in the hospital or developing a heartbeat problem.</p>
+<p>Scientists have <span><a data-invalid-url-rewritten-http="" href="https://www.cbsnews.com/news/hydroxychloroquine-studies-concerns-treating-coronavirus-covid-19/" target="_blank" rel="noopener noreferrer">raised serious questions about the database</a></span> used for that study, and its authors have launched an independent audit.</p><p>That work had a big impact: the World Health Organization suspended use of hydroxychloroquine in a study it is leading, and French officials stopped the drug's use in hospitals. On Wednesday, the WHO said experts who reviewed safety information decided that its study could resume.</p></section><br/><a href="https://www.cbsnews.com/news/hydroxychloroquine-coronavirus-prevention-covid-19-study/" class="button purchase" rel="nofollow noopener noreferrer" target="_blank">Read More</a>
